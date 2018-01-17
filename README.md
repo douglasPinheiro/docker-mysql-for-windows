@@ -1,2 +1,2 @@
 # docker-mysql-for-windows
-Windows image with mysql
+Windows nano server image with mysql
